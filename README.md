@@ -11,3 +11,6 @@ The dataset has details such as age, gender, and various diagnoses. There are 10
 ## Gradio App
 
 ![](gradio.png)
+
+## Note
+I did this project as part of my school assignment 
