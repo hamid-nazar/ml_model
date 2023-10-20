@@ -1,8 +1,8 @@
-# ML model
+# ML Model
 
 ## Problem Description
 
-This ML model predicts how long a patient will stay in a hospital on various features from the patients' medical histories, such as age, gender, diagnosis, and so on.
+This ML model predicts how long a patient will stay in a hospital on various features from the patient's medical history, such as age, gender, diagnosis, and so on.
 
 ## Data
 
